@@ -18,7 +18,7 @@ public class BoidHandler : MonoBehaviour
 
         for (int i = 0; i < 100; i++)
         {
-            //generateRandomBoid();
+            generateRandomBoid();
         }
     }
 
